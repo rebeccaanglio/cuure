@@ -1,0 +1,89 @@
+{
+    "products": [
+        {
+            "id":1,
+            "image":"bol.png",
+            "name":"BOOL",
+            "description":"Bol, 14cm",
+            "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "prix": 8.50
+        },
+        {
+            "id":2,
+            "image":"gourde.png",
+            "name":"HYDRA",
+            "description":"Gourde inox",
+            "prix": 16.50
+        },
+        {
+            "id":3,
+            "image":"sacFilet.png",
+            "name":"ROTTA",
+            "description":"Sac filet",
+            "prix": 7.20
+        },
+        {
+            "id":4,
+            "image":"cuillereEnBois.png",
+            "name":"EBENE",
+            "description":"Cuillère en bois",
+            "prix": 5.90
+        },
+        {
+            "id":5,
+            "image":"carte.png",
+            "name":"KDO",
+            "description":"Carte cadeau Cuure à offrir",
+            "prix": 8.50
+        },
+        {
+            "id":6,
+            "image":"serviette.png",
+            "name":"DOLCI",
+            "description":"Serviette de sport microfibre",
+            "prix": 15.00
+        },
+        {
+            "id":7,
+            "image":"livre.png",
+            "name":"DETOX",
+            "description":"Livre de recettes détoxifiantes",
+            "prix": 13.50
+        },
+        {
+            "id":8,
+            "image":"trousseVoyage.png",
+            "name":"YZE",
+            "description":"Trousse de voyage, 14cm",
+            "prix": 9.20
+        },
+        {
+            "id":9,
+            "image":"Calepin.png",
+            "name":"PERSO",
+            "description":"Calepin notes",
+            "prix": 7.90
+        },
+        {
+            "id":10,
+            "image":"boites.png",
+            "name":"SLECT",
+            "description":"Boite de rangement",
+            "prix": 10.50
+        },
+        {
+            "id":11,
+            "image":"calendrier.png",
+            "name":"CALI",
+            "description":"Calendrier saisons détox",
+            "prix": 11.50
+        },
+        {
+            "id":12,
+            "image":"coussin.png",
+            "name":"TETA",
+            "description":"Coussin appuie tête",
+            "prix": 14.70
+        }
+    ]
+}

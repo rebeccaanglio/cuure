@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "bol.png",
+      "name": "BOOL",
+      "description": "Bol, 14cm",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "prix": 8.5
+    },
+    {
+      "id": 2,
+      "image": "gourde.png",
+      "name": "HYDRA",
+      "description": "Gourde inox",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "prix": 16.5
+    },
+    {
+      "id": 3,
+      "image": "sacFilet.png",
+      "name": "ROTTA",
+      "description": "Sac filet",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "prix": 7.2
+    },
+    {
+      "id": 4,
+      "image": "cuillereEnBois.png",
+      "name": "EBENE",
+      "description": "Cuillère en bois",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "prix": 5.9
+    },
+    {
+      "id": 5,
+      "image": "carte.png",
+      "name": "KDO",
+      "description": "Carte cadeau Cuure à offrir",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "prix": 5.9
+    },
+    {
+      "id": 6,
+      "image": "serviette.png",
+      "name": "DOLCI",
+      "description": "Serviette de sport microfibre",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "prix": 5.9
+    },
+    {
+      "id": 7,
+      "image": "livre.png",
+      "name": "DETOX",
+      "description": "Livre de recettes détoxifiantes",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "prix": 5.9
+    },
+    {
+      "id": 8,
+      "image": "trousseVoyage.png",
+      "name": "YZE",
+      "description": "Trousse de voyage, 14cm",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "prix": 5.9
+    },
+    {
+      "id": 9,
+      "image": "Calepin.png",
+      "name": "PERSO",
+      "description": "Calepin notes",
+      "prix": 7.9
+    },
+    {
+      "id": 10,
+      "image": "boites.png",
+      "name": "SLECT",
+      "description": "Boite de rangement",
+      "prix": 10.5
+    },
+    {
+      "id": 11,
+      "image": "calendrier.png",
+      "name": "CALI",
+      "description": "Calendrier saisons détox",
+      "prix": 11.5
+    },
+    {
+      "id": 12,
+      "image": "coussin.png",
+      "name": "TETA",
+      "description": "Coussin appuie tête",
+      "prix": 14.7
+    }
+  ]
+}
