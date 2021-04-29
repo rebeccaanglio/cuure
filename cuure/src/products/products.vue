@@ -1,35 +1,26 @@
 <template>
 <div>
-<h1>Catalogue</h1><br><br>
+<h1>Catalogue</h1><br><br><br><br>
+
 <div class="row">
 <div class="col-3 products" v-for="product in products" :key="product.id">
-<p class="jumbotron">{{ product.image }}</p>
+<div class="img-container"><img v-bind:src="product.image" alt="bol" height="350px" width="350px" justify-content="center"></div>
 <router-link :to="{ name: 'ProductsDetails', params: { id: product.id }}">
 
 <h4>{{ product.name }}</h4>
-<h5>{{ product.description }}</h5>
-<h3>{{ product.prix }} €</h3>
 </router-link>
-
-//<modale></modale>
-
-
-
+<h5>{{ product.description }}</h5>
+<h6>{{ product.prix }}€</h6>
 </div>
 </div>
 </div>
-
-
 </template>
+
 <script>
 
-//import Modale from './modale'
-//import axios from 'axios'
-
 export default {
-   // components: {
-       // 'Modale': Modale
-   // },
+    components: {  
+    },
     data() {
         return {
             products: []

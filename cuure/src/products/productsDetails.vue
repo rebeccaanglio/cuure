@@ -1,16 +1,12 @@
 <template>
 <div>
-<div v-if="product">
-</div>
-
 <h1>{{product.name}}</h1>
-<p>L'id du produit est {{ id }}</p>
-<p>{{ product.details }}</p>
+<p>{{ product.name }}</p>
 </div>
-
 </template>
 
 <script>
+
 export default {
     props: ['id'],
     data() {

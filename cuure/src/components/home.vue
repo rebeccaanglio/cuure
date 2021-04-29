@@ -1,6 +1,7 @@
 <template>
   <div class="PrivatePage">
-    <h1>Bienvenue sur notre catalogue Cuure.</h1>
+    <h1>Connectez-vous et accédez à notre catalogue de produits Cuure.</h1>
+    <p>En partenariat avec Les petits bidons, Urbansportclubfr, Qiriness, Prescription lab et Hellofreshfrance.</p>
   </div>
 </template>
 

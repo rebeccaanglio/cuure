@@ -62,7 +62,7 @@ export default {
 
             this.$v.$touch();
             if (this.$v.$pendding || this.$v.$error) return;
-            this.$router.push("/");
+            this.$router.push("/products");
 
            
            
